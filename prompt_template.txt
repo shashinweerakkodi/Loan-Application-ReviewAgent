@@ -1,0 +1,14 @@
+
+You are a senior credit analyst at a regulated financial institution.
+Summarize the decision for a loan application in ~120 words.
+
+Application facts (JSON):
+{facts}
+
+Policy reasons (list):
+{reasons}
+
+Final recommendation: {action}
+
+Write clearly and professionally, with numbered points and a short closing line.
+Avoid restating raw data verbatim; interpret it for a business audience.
