@@ -1,0 +1,31 @@
+application_id,full_name,nic,age,employment_status,monthly_income_lkr,existing_debt_lkr,requested_amount_lkr,loan_purpose,credit_score,kyc_status,aml_flag,delinquency_12m,dti
+APP001,Ishara Perera,912345012,35,Salaried,258832,447284,1500000,Small Business,787,Verified,True,1,0.05
+APP002,Dilani De Alwis,932104611,49,Salaried,182499,228735,500000,Home Renovation,644,Verified,False,0,0.04
+APP003,Ishara Wickramasinghe,852346881,43,Self-Employed,214095,0,1500000,Small Business,872,Verified,True,2,0.0
+APP004,Dilani Fernando,852344733,39,Contract,253987,0,1000000,Debt Consolidation,650,Verified,False,1,0.0
+APP005,Kavindi Fernando,941103803,55,Self-Employed,210341,417163,2000000,Education,647,Verified,False,0,0.06
+APP006,Nuwan Gunasekara,932105386,25,Salaried,294874,106433,750000,Vehicle Purchase,712,Verified,False,1,0.01
+APP007,Pasindu Jayasinghe,941109830,37,Self-Employed,108478,365063,750000,Home Renovation,759,Verified,False,4,0.1
+APP008,Pasindu Silva,932102040,45,Salaried,253616,244018,1500000,Debt Consolidation,691,Verified,False,0,0.03
+APP009,Sahan Fernando,912348123,31,Salaried,297437,133106,750000,Vehicle Purchase,880,Rejected,False,0,0.01
+APP010,Maleesha Ekanayake,901233504,44,Self-Employed,78976,164937,1500000,Vehicle Purchase,821,Pending,False,0,0.06
+APP011,Dilani Perera,901232290,26,Self-Employed,246806,0,1500000,Small Business,686,Verified,False,0,0.0
+APP012,Dulanga Wickramasinghe,901239835,33,Self-Employed,107886,426980,750000,Home Renovation,545,Verified,False,1,0.12
+APP013,Dulanga De Alwis,901234608,21,Salaried,150601,144186,300000,Small Business,709,Verified,False,0,0.03
+APP014,Pasindu Ekanayake,941108744,36,Self-Employed,193784,128397,300000,Debt Consolidation,619,Verified,False,0,0.02
+APP015,Ishara Perera,932106559,27,Salaried,204021,453012,1000000,Home Renovation,734,Rejected,False,1,0.07
+APP016,Nuwan De Alwis,852342528,36,Salaried,138558,262496,1000000,Vehicle Purchase,738,Verified,True,0,0.06
+APP017,Tharindu De Alwis,932103536,33,Salaried,257422,198597,1500000,Home Renovation,776,Verified,True,0,0.02
+APP018,Maleesha Fernando,901232122,59,Salaried,219430,94770,1500000,Vehicle Purchase,683,Verified,False,1,0.01
+APP019,Dilani Gunasekara,901235351,46,Salaried,139511,74871,300000,Education,846,Rejected,False,0,0.02
+APP020,Maleesha Wijesinghe,901236718,25,Unemployed,156009,335667,1500000,Debt Consolidation,632,Verified,False,0,0.06
+APP021,Maleesha Wijesinghe,852343200,37,Salaried,239579,408159,750000,Small Business,663,Verified,False,1,0.05
+APP022,Hasini Wijesinghe,852342512,48,Self-Employed,231992,299274,500000,Small Business,619,Verified,False,0,0.04
+APP023,Nuwan Fernando,852343442,55,Salaried,128186,435745,1000000,Vehicle Purchase,751,Verified,False,1,0.1
+APP024,Dilani Jayasinghe,852346794,56,Unemployed,110500,404524,500000,Medical,758,Verified,False,0,0.11
+APP025,Nuwan Silva,912347745,36,Salaried,186677,156961,300000,Education,733,Verified,False,0,0.03
+APP026,Dilani Perera,901237528,42,Salaried,273696,395581,750000,Home Renovation,603,Verified,False,0,0.04
+APP027,Kavindi Silva,941105349,23,Salaried,91180,379083,750000,Vehicle Purchase,361,Verified,False,1,0.12
+APP028,Nuwan Wickramasinghe,852349518,55,Self-Employed,271241,130165,500000,Debt Consolidation,649,Verified,False,0,0.01
+APP029,Ishara Wijesinghe,941106067,47,Salaried,155156,9560,500000,Medical,429,Verified,False,1,0.0
+APP030,Maleesha Perera,912345700,34,Salaried,103319,109513,1000000,Debt Consolidation,511,Verified,False,1,0.03
