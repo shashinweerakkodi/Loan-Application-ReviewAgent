@@ -1,0 +1,16 @@
+application_id,recommended_action,reasons,risk_score,checks,explanation
+APP008,APPROVE,['All core checks passed within policy thresholds.'],0.0,"{'KYC': 'PASS', 'AML': 'PASS', 'Watchlist': 'PASS', 'CreditScore': 'PASS', 'DTI': 'PASS', 'Delinquency': 'PASS', 'Affordability': 'PASS'}","Decision: APPROVE. Key reasons:
+  - All core checks passed within policy thresholds.
+Summary: Based on policy checks and risk signals, the recommended action is APPROVE."
+APP030,APPROVE,['Low credit score: 511.'],0.06,"{'KYC': 'PASS', 'AML': 'PASS', 'Watchlist': 'PASS', 'CreditScore': 'WARN', 'DTI': 'PASS', 'Delinquency': 'PASS', 'Affordability': 'PASS'}","Decision: APPROVE. Key reasons:
+  - Low credit score: 511.
+Summary: Based on policy checks and risk signals, the recommended action is APPROVE."
+APP006,APPROVE,['All core checks passed within policy thresholds.'],0.0,"{'KYC': 'PASS', 'AML': 'PASS', 'Watchlist': 'PASS', 'CreditScore': 'PASS', 'DTI': 'PASS', 'Delinquency': 'PASS', 'Affordability': 'PASS'}","Decision: APPROVE. Key reasons:
+  - All core checks passed within policy thresholds.
+Summary: Based on policy checks and risk signals, the recommended action is APPROVE."
+APP027,APPROVE,['Low credit score: 361.'],0.06,"{'KYC': 'PASS', 'AML': 'PASS', 'Watchlist': 'PASS', 'CreditScore': 'WARN', 'DTI': 'PASS', 'Delinquency': 'PASS', 'Affordability': 'PASS'}","Decision: APPROVE. Key reasons:
+  - Low credit score: 361.
+Summary: Based on policy checks and risk signals, the recommended action is APPROVE."
+APP009,REJECT,['KYC status is Rejected.'],0.25,"{'KYC': 'FAIL', 'AML': 'PASS', 'Watchlist': 'PASS', 'CreditScore': 'PASS', 'DTI': 'PASS', 'Delinquency': 'PASS', 'Affordability': 'PASS'}","Decision: REJECT. Key reasons:
+  - KYC status is Rejected.
+Summary: Based on policy checks and risk signals, the recommended action is REJECT."
